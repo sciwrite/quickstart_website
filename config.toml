@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://sciwrite.github.io"
 languageCode = "en-us"
 title = "Radha's Website"
 # Change the default theme to be use when building the site with Hugo
